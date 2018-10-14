@@ -32,3 +32,6 @@ https://arxiv.org/pdf/1702.04680.pdf
 
 Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
 https://arxiv.org/pdf/1711.07601.pdf
+
+Towards Practical Visual Search Engine Within Elasticsearch
+https://arxiv.org/pdf/1806.08896.pdf
