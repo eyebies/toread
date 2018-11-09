@@ -35,3 +35,6 @@ https://arxiv.org/pdf/1711.07601.pdf
 
 Towards Practical Visual Search Engine Within Elasticsearch
 https://arxiv.org/pdf/1806.08896.pdf
+
+Semi-Supervised Classification with Graph Convolutional Networks
+https://arxiv.org/pdf/1609.02907.pdf
